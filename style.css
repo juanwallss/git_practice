@@ -1,3 +1,16 @@
 html {
-    background-color: black;
+   background-color: antiquewhite;
+}
+
+body{
+    text-align: center;
+    font-size: 28px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.divPhrase {
+    width: 200px;
 }

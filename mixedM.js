@@ -24,9 +24,9 @@ let z = Math.floor(Math.random() * 2);
 let x = Math.floor(Math.random() * 9 +1);
 
 if(z === 0){
-    console.log(inspirationalPhrases[x]);
+    document.write("Inspirational: " + inspirationalPhrases[x])
 }else{
-    console.log(birthdayPhrases[x])
+    document.write("Birthday: " + birthdayPhrases[x])
 }
 
 //console.log(z);
